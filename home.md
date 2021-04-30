@@ -10,7 +10,8 @@ int main(void){
     return 0;
 }
 </code>
-</pre>
+</pre>   
+
 3. 수평선 
    <hr/>
 
